@@ -57,7 +57,7 @@ void clearData() {
                         style: TextStyle(fontSize: 20),
                         decoration: InputDecoration(
                             border: OutlineInputBorder(),
-                            labelText: 'Bill billAmount',
+                            labelText: 'Bill Amount',
                             prefixIcon: Icon(Icons.attach_money)
                         ),
                         onChanged: (value) {
